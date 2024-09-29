@@ -1,5 +1,5 @@
 import './App.css';
-import Picture from './nigga.png';
+import Picture from './nigga.jpg';
 import ProjStockfish from './stockfish-toolbox.png';
 import ProjCalc from './calculator.png';
 import { useState, useEffect } from 'react';
